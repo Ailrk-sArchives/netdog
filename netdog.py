@@ -214,8 +214,8 @@ class NetDog(object):
     def usage():
         print ("Net Dog ----The most legitmate net tool faked from netcat")
         print ("Usage")
-        print ("netdog -t <target_ip> -p <port> [--help-h][--command-c][--listen-l]\
-        [--execute-e=<command_to_run>][--upload-u=<upload_destination>]")
+        print ("netdog -t <target_ip> -p <port> [--help-h][--command-c][--listen-l]")
+        print ("        [--execute-e=<command_to_run>][--upload-u=<upload_destination>]")
 
 
 
